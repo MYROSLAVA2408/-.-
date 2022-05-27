@@ -7,7 +7,6 @@ print(a or b)
 print(a and b)
 print(b or c)
 
-
 print(6)
 x = False
 y = False
